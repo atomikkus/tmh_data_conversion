@@ -2,3 +2,4 @@ venv
 *.sav
 *.xlsx
 __pycache__
+*.zip
